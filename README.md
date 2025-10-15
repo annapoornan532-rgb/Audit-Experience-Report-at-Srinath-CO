@@ -5,6 +5,8 @@ Internship Offer Letter:
 
 Certificate of Completion:
 
+![Certificate of Completion](https://github.com/user-attachments/assets/9015e5c1-1752-4a0b-8120-449f697336e7)
+
 About Company
 
 Company is working as a Chartered Accountants firm under the rules and regulations and code of ethics designed for CA firms ICAI ( The Institute of Chartered Accountants of India )
