@@ -207,36 +207,36 @@ Table of contents
 05-02-2025 TO 06-03-2025
 
 NO.DAY	DATE	WORK UNDERTAKEN
-1	05-02-2025	Introduction  about the CA firm
+1. 	05-02-2025	Introduction  about the CA firm
 
-2	06-02-2025	Introduced about the working of the firm and services offered by them. 
+2. 	06-02-2025	Introduced about the working of the firm and services offered by them. 
 
-3	07-02-2025	Learning about the product of the company
+3. 	07-02-2025	Learning about the product of the company
 
-4	08-02-2025	2nd Saturday Holiday
+4	. 08-02-2025	2nd Saturday Holiday
 
-5	09-02-2025	Sunday
+5	. 09-02-2025	Sunday
 
-6	10-02-2025	Explained  the  basic accounting practices
+6	. 10-02-2025	Explained  the  basic accounting practices
 
 
 2nd WEEK WORK REPORT
 05-02-2025 TO 06-03-2025
 
 NO.DAY	DATE	WORK UNDERTAKEN
-7	11-02-2025	Started to do report on Auditing
+7	. 11-02-2025	Started to do report on Auditing
 
-8	12-02-2025	Did some research on company
+8	. 12-02-2025	Did some research on company
 
-9	13-02-2025	Understanding the structure and work culture of the company
+9. 	13-02-2025	Understanding the structure and work culture of the company
 
-10	14-02-2025	Studying about the customers response about the company serving
+10	. 14-02-2025	Studying about the customers response about the company serving
 
-11	15-02-2025	Banking Statement
+11. 	15-02-2025	Banking Statement
 
-12	16-02-2025	Sunday
+12. 	16-02-2025	Sunday
 
-13	17-02-2025	Study of documentation of clients.
+13. 	17-02-2025	Study of documentation of clients.
 
 
 
@@ -244,19 +244,19 @@ NO.DAY	DATE	WORK UNDERTAKEN
 05-02-2025 TO 06-02-2025
 
 NO.DAY	DATE	WORK UNDERTAKEN
-14	18-02-2025	Date analysis of various company
+14	. 18-02-2025	Date analysis of various company
 
-15 	19-02-2025	Checking of missing balance amount.
+15. 	19-02-2025	Checking of missing balance amount.
 
-16	 20-02-2025	Manager guiding what I have to do
+16.	 20-02-2025	Manager guiding what I have to do
 
-17	 21-02-2025	Introduction to Tally ERP9
+17.	 21-02-2025	Introduction to Tally ERP9
 
-18 	22-02-2025	Creating of Journal
+18. 	22-02-2025	Creating of Journal
 
-19	 23-02-2025	Sunday
+19	. 23-02-2025	Sunday
 
-20 	24-02-2025	Creating of  Ledger
+20. 	24-02-2025	Creating of  Ledger
 
 
 4th WEEK WORK REPORT
@@ -264,19 +264,19 @@ NO.DAY	DATE	WORK UNDERTAKEN
 
 NO.DAY	DATE	WORK UNDERTAKEN
 
-21	25-02-2025	Creating of Voucher
+21. 	25-02-2025	Creating of Voucher
 
-22	26-02-2025	Maha Shivaratri Holiday
+22. 	26-02-2025	Maha Shivaratri Holiday
 
-23	27-02-2025	Banking Statements
+23. 	27-02-2025	Banking Statements
 
-24	28-03-2025	Banking Statements
+24. 	28-03-2025	Banking Statements
 
-25	01-03-2025	Banking Statements
+25	. 01-03-2025	Banking Statements
 
-26	02-03-2025	Sunday
+26. 	02-03-2025	Sunday
 
-27	03-03-2025	Entry invoice bills
+27	. 03-03-2025	Entry invoice bills
 
 
  
@@ -285,17 +285,18 @@ NO.DAY	DATE	WORK UNDERTAKEN
 
 NO.DAY	DATE	WORK UNDERTAKEN
 
-28	04-03-2025	Banking Statements
+28	. 04-03-2025	Banking Statements
 
-29	05-03-2025	Entry invoice bills
+29	. 05-03-2025	Entry invoice bills
 
-30	06-03-2025	Checking Balance sheet
+30	. 06-03-2025	Checking Balance sheet
 
 
 Internship Experience: Audit Firm at Srinath & CO
 During my time as a Audit intern at Srinath & Co, I had the opportunity to work on several impactful projects that helped me develop my skills in the firm. i've shared my journey and the insights I gained from the experience in a detailed blog post on Medium.
 
 Feel free to check it out here:
+
 
 
 Conclusion
