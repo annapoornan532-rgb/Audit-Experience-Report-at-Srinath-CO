@@ -27,39 +27,68 @@ Srinath L & Co is a professionally managed firm. The team consists of distinguis
 industry and other professionals which enables the firm to keep place with contemporary developments and to meet the needs of its clients.
 
 CORPORATE SERVICES
+
 •	Incorporation of company
+
 •	Consultancy on company Law matters.
+
 •	Planning of Mergers, Acquisitions, De-mergers ,and Corporate re-organizations.
+
 •	Filing of annual returns and various forms, documents.
+
 •	Clause 49 review for compliance with fiscal, corporate and tax laws
+
 •	Secretarial matters including share transfers
+
 •	Maintenance of Statutory records
+
 •	Consultancy on public/rights/Bonus Issue of shares.
 
 AUDIT
+
 Broadly, Audit involves the following:
+
 •	In- depth study of existing systems, procedures and controls for proper understanding. Suggestions for improvement and strengthening.
+
 •	Ensuring compliance with policies, procedures and statutes.
+
 •	Comprehensive review to ensure that the accounts are prepared in accordance with Generally Accepted Accounting Policies and applicable Accounting Standards/IFRS.
+
 •	Reporting inefficiencies at any operational level.
+
 •	Checking the genuineness of the expenses booked in accounts.
+
 •	Detection and prevention of leakages of income and suggesting corrective measures to prevent recurrence.
+
 •	Certification of the books of account being in agreement with the balance sheet and profit and Loss Accounts.
+
 •	Issue of Audit Reports under various laws.
 
+
 Types of Audits conducted
+
 •	Statutory Audit of companies
+
 •	Tax Audit under Section 44AB of the Income tax Act, 1961.
+
 •	Audit under other sections of the Income Tax Act, 1961 such as 80HHC, 80-IA, etc.
+
 •	Concurrent Audits.
+
 •	Revenue Audit of Banks.
+
 •	Branch Audits of Banks.
+
 •	Audit of PF Trusts, Charitable Trusts, Schools, etc.
+
 •	Audit of Co-operative Societies.
+
 •	Information System Audit
+
 •	Internal Audits.
 
 A hierarchy is an arrangement of items (objects, names, values, categories, etc.) in which the items are represented as being “above,” “below,” or” at the same level as” one another and with only one “neighbour”above and below each level. These classifications are made with regard to rank, importance, seniority, power status, or authority. A hierarchy of power is called a power structure.
+
 •	Partners
 •	Directors
 •	Senior Managers
@@ -82,6 +111,7 @@ Firm emphasis on delivering high quality services to clients, adding value to th
 Tax & Corporate Department :
 
 Firm delivers taxation services to clients and assists them in obtaining optimal tax benefits available under the laws. Firm also assist clients to comply with the tax rules and regulations and always keep them updated with the latest developments and amendments. Tax personnel are qualified professionals, experienced and knowledgeable. We maintain a comprehensive tax library which always provides ready references and timely solution in complex situations. Firm provides a comprehensive range of tax services which includes;
+
 •	Preparation and submission of annual tax returns
 •	Compliance services
 •	Tax advisory services
@@ -91,14 +121,18 @@ Firm delivers taxation services to clients and assists them in obtaining optimal
 In Srinath L & Co. same staff is handling with tax matters as well as corporate sector. While in corporate firm provides different kinds of services relating to corporate sector from incorporation to winding up of a company.
 
 Computer Department :
+
 Departments handles the computer related matters and assists other departments in working properly and efficiently. Department deals with online filing of returns of income for tax departments and finalize audit reports in proper format in a presentable manner. It deals with networking of computers in office and all other problems which may be faced by computer users time to time.
 
 Correspondence  Department :
+
 It handles with all the correspondence of the firm by sending the solicited and unsolicited information from time to time. Effectively and efficiently manage the day-to-day operations of the Correspondence. Interact with clients to resolve policy and customer issues. Identify trends and remove obstacles in Statement production and delivery by properly maintaining record of all communication for future reference.
 This department is mainly concerned with the recruitment, hiring/firing of the firm and this department presents the timely reports on effective utilization of the resources by the firm. A purpose of the human resource is to keep the trained employees and recruit new energetic staff to work. Another purpose of this department is to provide a good working environment for staff and try to make by facilitating them and arranging some recreational activities for them. HR knows the real worth of its employees so cares for them and motivate them to work efficiently and diligently.
 The hierarchy adopted by Srinath L & Co, is in accordance with the legal structure a CA firm shall have. Although the ICAI rules permit  of not having the supervisors and does not make it mandatory having senior manager and manager, yet this goes as additional benefit for the firm of having such an extensive hierarchy.
 
+
 Introduction To Tally Software
+
 Tally ERP 9 is a powerful accounting program that integrates with a variety of other corporate systems, including sales, purchasing, inventory, finance, payroll and more. 
 Many businesses now use Tally to save time and perform accurate calculations that assist them in creating seamless commercial transactions.
  Tally . ERP 9 is a perfect business management solution and GST software with an ideal combination of function, control, and in-built customisability.
@@ -106,30 +140,48 @@ Many businesses now use Tally to save time and perform accurate calculations tha
 
  Update: Tally Prime is the latest version of Tally. 
 Features:
+
     1. It has a unique voucher passage mechanism that calms a variety of exchanges.
+
     2. After calculation completion, the customer will get an interest survey. 
+
     3. It provides a solo record of several documents. 
-    4. The commodity enables the customer to comply with the accounts exchange or 
-         non - exchange .
+
+    4. The commodity enables the customer to comply with the accounts exchange or non - exchange .
+
      5. The customer can monitor updates and calm changes with the help of this component.   
+
     6. It allows associations to distribute payments for applications and late applications
+
 
 Advantages of Tally
 
 •	Depending upon the needs of the small or large business groups alongside, its different  features make it a very useful software. 
+
 •	It helps you to take your decisions easily with its wide range of features. 
-•	You can remote access your account with the help of Tally. NET.With various language support, it is convenient for a user to use it in his own language. 
+
+•	You can remote access your account with the help of Tally. NET.With various language support, it is convenient for a user to use it in his own language.
+ 
 •	In the latest version, if your operating system suddenly shuts down, your data won’t   be lost .
+
 •	In the past year, people used to manage their accounts manually; all the complex calculations were done manually, which had a high risk of error. But, as we now use   Tally it’s  pretty simple and easy to use and comes with less risk of errors. 
+
 •	As it has numerous functions performing various tasks is made simple due to this   Software . Especially  in the case of GST.
+
 
 Disadvantages of Tally
 
+
 •	Retrieving the data after forgetting the user ID and password is a bit difficult. Fewer data  security is also one of the disadvantages. 
+
 •	It is complex software for beginners to use. It lacks back office support for users who find some trouble using it. 
+
 •	Backing up your data is also one of the issues users face while working with Tally. You have to manually back up your data at someplace. It won’t do the backing up by itself.
+
 •	It doesn’t allow you to open the same transaction sheet from various systems on a single operating system. It’s a single window software.
+
 •	As Tally has upgraded itself year by year, there is no major update made to it. It has the same features as the ability to do some extra work.
+
 
 OVERVIEW
 
@@ -156,22 +208,34 @@ Table of contents
 
 NO.DAY	DATE	WORK UNDERTAKEN
 1	05-02-2025	Introduction  about the CA firm
+
 2	06-02-2025	Introduced about the working of the firm and services offered by them. 
+
 3	07-02-2025	Learning about the product of the company
+
 4	08-02-2025	2nd Saturday Holiday
+
 5	09-02-2025	Sunday
+
 6	10-02-2025	Explained  the  basic accounting practices
+
 
 2nd WEEK WORK REPORT
 05-02-2025 TO 06-03-2025
 
 NO.DAY	DATE	WORK UNDERTAKEN
 7	11-02-2025	Started to do report on Auditing
+
 8	12-02-2025	Did some research on company
+
 9	13-02-2025	Understanding the structure and work culture of the company
+
 10	14-02-2025	Studying about the customers response about the company serving
+
 11	15-02-2025	Banking Statement
+
 12	16-02-2025	Sunday
+
 13	17-02-2025	Study of documentation of clients.
 
 
@@ -181,38 +245,58 @@ NO.DAY	DATE	WORK UNDERTAKEN
 
 NO.DAY	DATE	WORK UNDERTAKEN
 14	18-02-2025	Date analysis of various company
-15	19-02-2025	Checking of missing balance amount.
-16	20-02-2025	Manager guiding what I have to do
-17	21-02-2025	Introduction to Tally ERP9
-18	22-02-2025	Creating of Journal
-19	23-02-2025	Sunday
-20	24-02-2025	Creating of  Ledger
+
+15 	19-02-2025	Checking of missing balance amount.
+
+16	 20-02-2025	Manager guiding what I have to do
+
+17	 21-02-2025	Introduction to Tally ERP9
+
+18 	22-02-2025	Creating of Journal
+
+19	 23-02-2025	Sunday
+
+20 	24-02-2025	Creating of  Ledger
+
 
 4th WEEK WORK REPORT
 05-02-2025 TO 06-02-2025
 
 NO.DAY	DATE	WORK UNDERTAKEN
+
 21	25-02-2025	Creating of Voucher
+
 22	26-02-2025	Maha Shivaratri Holiday
+
 23	27-02-2025	Banking Statements
+
 24	28-03-2025	Banking Statements
+
 25	01-03-2025	Banking Statements
+
 26	02-03-2025	Sunday
+
 27	03-03-2025	Entry invoice bills
+
 
  
 5th WEEK WORK REPORT
 05-02-2025 TO 06-03-2025
 
 NO.DAY	DATE	WORK UNDERTAKEN
+
 28	04-03-2025	Banking Statements
+
 29	05-03-2025	Entry invoice bills
+
 30	06-03-2025	Checking Balance sheet
+
 
 Internship Experience: Audit Firm at Srinath & CO
 During my time as a Audit intern at Srinath & Co, I had the opportunity to work on several impactful projects that helped me develop my skills in the firm. i've shared my journey and the insights I gained from the experience in a detailed blog post on Medium.
 
 Feel free to check it out here:
+
 
 Conclusion
 These tasks provided valuable hands-on experience and helped me enhance my skills as a intern in audit firm. Within the duration of my internship, I successfully completed the challenging tasks presented unique challenges and opportunities for growth. I am truly proud of the work I have accomplished during my time here, and I hope that this repository can serve as an inspiration to others to be diligent, dedicated, and supportive in their roles within their respective companies. I am grateful for the learning experience and the chance to contribute to real-word risk mindset projects.
@@ -229,10 +313,10 @@ Email: annapoornan532@gmail.com
 
 Looking forward to connecting and exchanging ideas!
 
-Support this project!
-If you found this project helpful or interesting, please consider giving it a on GitHub! Your support helps keep the project active and encourage further development.
+✨Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub! Your support helps keep the project active and encourage further development.
 
-Thank you for your support!
+Thank you for your support!💖
 
 
 
