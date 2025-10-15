@@ -297,9 +297,10 @@ During my time as a Audit intern at Srinath & Co, I had the opportunity to work 
 
 Feel free to check it out here:
 
-
+https://medium.com/@annapoornan/my-journey-as-a-audit-experience-report-at-srinath-co-ee2aaa01b838
 
 Conclusion
+
 These tasks provided valuable hands-on experience and helped me enhance my skills as a intern in audit firm. Within the duration of my internship, I successfully completed the challenging tasks presented unique challenges and opportunities for growth. I am truly proud of the work I have accomplished during my time here, and I hope that this repository can serve as an inspiration to others to be diligent, dedicated, and supportive in their roles within their respective companies. I am grateful for the learning experience and the chance to contribute to real-word risk mindset projects.
 
 I want to extend my heartfelt gratitude to Srinath audit & CO for giving me this wonderful opportunity to learn and grow professionally. Working with such a remarkable company has been a privilege, and I am eager to continue contributing my best efforts to support the development of the companies I work with in the future.
